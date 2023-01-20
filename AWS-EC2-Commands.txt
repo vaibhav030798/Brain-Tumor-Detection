@@ -1,0 +1,5 @@
+python3 app.py
+
+tmus new -s mywindow
+
+tmus a -t mywindow

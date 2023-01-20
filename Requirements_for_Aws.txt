@@ -1,0 +1,10 @@
+#PUTTY
+Download link - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+for SSH Communtication pc to Aws EC2 Instance terminal
+& Generate .pem file to .ppk file
+
+#WinScp 
+Download link - https://winscp.net/eng/download.php
+
+for mywindows drive to communicate AWS ubuntu System
