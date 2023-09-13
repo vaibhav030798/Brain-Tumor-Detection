@@ -11,13 +11,13 @@ import cv2
 model_path1 = 'Brain_tumor_yes_or_not_predictor.h5'
 model1 = keras.models.load_model(model_path1)
 
-#horse image path
+#No tumor image path
 N1 = 'test/no 95.jpg'
 N2 = 'test/no 96.jpg'
 N3 = 'test/no 98.jpg'
 N4 = 'test/no 99.jpg'
 
-#human image path
+#Tumor image path
 Y1 = 'test/Y242.JPG'
 Y2 = 'test/Y243.JPG'
 Y3 = 'test/Y244.JPG'
